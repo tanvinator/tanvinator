@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanvinator
 - 👀 I’m interested in becoming a Data Analyst
-- 🌱 I’m currently learning to visualize data using Python
+- 🌱 I’m currently learning to visualize data using Python and MySQL
 - 💞️ I’m looking to collaborate on open source project in Python.
 - 📫 Shoot me an email at tanvig.1706@gmail.com or coonect with me on LinkedIn at www.linkedin.com/in/tanvigarg17
 
